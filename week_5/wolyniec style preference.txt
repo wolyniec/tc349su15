@@ -1,0 +1,9 @@
+My preference is strongly toward tile style one, because of the classic feel of it. 
+It looks more 'typical' because it's utilitarian, achieving a stylistic look without
+sacrificing any of the core features to do so. A lot of sites try to be something 
+that they're not without fully understanding why (think Yahoo! circa 2004) simply
+because that seems to be what their competitors have. I've put in a fair amount of
+thought and I want the presentation of the site not to be too distracting from the
+ghost facts located on it. Simply put, the navigation on the site will be so classic 
+that it won't require any learning.
+Because of this, I don't feel that anything beyond a simple style tile is warranted.
